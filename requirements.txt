@@ -1,0 +1,6 @@
+streamlit
+groq
+python-dotenv
+Groq API
+xhtml12pdf
+
